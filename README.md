@@ -105,7 +105,7 @@ Endpoint: `POST /predict`
 
 ## Directory Structure
 ```
-project_name/
+Predicting Machine Downtime/
 │
 ├── app.py                  # Flask app
 ├── requirements.txt        # Python dependencies
