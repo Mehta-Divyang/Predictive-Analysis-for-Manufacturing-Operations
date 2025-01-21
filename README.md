@@ -107,10 +107,11 @@ Endpoint: `POST /predict`
 ```
 Predicting Machine Downtime/
 │
-├── app.py                  # Flask app
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-├── downtime_prediction.pkl # Serialized model
+├── app.py                       # Flask app
+├── requirements.txt             # Python dependencies
+├── README.md                    # Project documentation
+├── Product_Defect_Data.ipynb    # Data collection and cleaning
+├── downtime_prediction.pkl      # Serialized model
 ├── machine_maintenance_data.csv # Dataset file
 
 ```
